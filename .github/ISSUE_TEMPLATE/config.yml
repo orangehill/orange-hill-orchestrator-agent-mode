@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 👋 Applying for the AI Delivery Orchestrator role?
+    url: https://orangehill.ai/careers/orchestrator
+    about: To apply, do the task and submit on our careers page. Issues and PRs here are for feedback on the repo itself, not applications.
