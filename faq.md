@@ -22,4 +22,4 @@ Small and senior — a few high-leverage people plus a lot of agents. You'd own 
 Then it probably saved us both time — and you should trust it. We built it to be honest, not to recruit you. No hard feelings, and feel free to point a strong friend our way.
 
 ## "Is this whole agent-mode thing a gimmick?"
-It's a filter and a flex. We automated ~two-thirds of our work; a job post you can *talk to* is just us being ourselves. If you found it delightful, you're probably our kind of person. If you found it gimmicky, that's useful too.
+It's a filter and a flex. We've handed most of the building to AI; a job post you can *talk to* is just us being ourselves. If you found it delightful, you're probably our kind of person. If you found it gimmicky, that's useful too.

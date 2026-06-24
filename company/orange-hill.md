@@ -1,6 +1,6 @@
 # What Orange Hill is
 
-A small, senior, **AI-native software studio** based in Serbia and expanding into Austria / the DACH region. We build software for premium clients, and we build our own products. We're profitable and growing — and we run the company on AI, not as a slogan but as the actual operating model (~two-thirds of our delivery is automated today, and climbing).
+A small, senior, **AI-native software studio** based in Serbia and expanding into Austria / the DACH region. We build software for premium clients, and we build our own products. We're profitable and growing — and we run the company on AI, not as a slogan but as the actual operating model (the bulk of delivery is automated today, and climbing).
 
 ## What we do
 - **Client delivery** — we build and maintain high-profile platforms. A few we can name: the **Serbian Chamber of Commerce** ([pks.rs](https://pks.rs)), **m:tel Austria** ([mtel.at](https://mtel.at)), **Eucerin**, and **Coca-Cola** — alongside other high-profile clients around the world, across sports media, telecom, real estate, fitness, and retail. Web platforms, mobile apps, integrations, automation.

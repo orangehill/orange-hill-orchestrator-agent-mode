@@ -46,7 +46,7 @@
 - **Many parallel threads, one serial mind** — orchestrate 5–7 projects, but defend judgment as the scarce resource.
 - **Voice-first, phone-operable, always-on.** A coordinator agent mobilizes other agents and reports back in plain language.
 - **Spec/PRD-driven delivery**, with beautifully crafted artifacts (custom fonts, diagrams, documents a CEO actually wants to read).
-- **Roughly two-thirds of our work is automated** — and we expect that to keep climbing.
+- **Most of our work is automated** — and we expect that to keep climbing.
 
 ## Who thrives here
 

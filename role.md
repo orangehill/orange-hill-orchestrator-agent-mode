@@ -1,8 +1,8 @@
 # AI Delivery Orchestrator
 
-**We don't write much code anymore. We orchestrate AI that does. We're looking for the person who can run that.**
+**We don't write much code anymore — we orchestrate the AI that does. We're hiring one more to build the same way.**
 
-Orange Hill is a small, senior, profitable software studio that builds and maintains platforms for high-profile clients — the Serbian Chamber of Commerce ([pks.rs](https://pks.rs)), m:tel Austria ([mtel.at](https://mtel.at)), Eucerin, Coca-Cola, and others around the world — across Serbia and the DACH region. Roughly **two-thirds of our delivery is already automated** — we're at the forefront of AI-native development, and we intend to stay there. We're not hiring someone to type faster. We're hiring someone to **direct**.
+Orange Hill is a small, senior, profitable software studio that builds and maintains platforms for high-profile clients — the Serbian Chamber of Commerce ([pks.rs](https://pks.rs)), m:tel Austria ([mtel.at](https://mtel.at)), Eucerin, Coca-Cola, and others around the world — across Serbia and the DACH region. **The majority of our delivery already runs on AI agents** — we're at the forefront of AI-native development, and we intend to stay there. We're not hiring someone to type faster. We're hiring someone to **direct**.
 
 ## What you'll own
 - Run several client projects **in parallel** — not by coding each by hand, but by orchestrating AI agents and steering them to a high-quality result.
@@ -34,4 +34,4 @@ We expect you to **recognize what's good and delegate execution to AI** — not 
 (Comp is base + meaningful performance/ownership upside — see [`faq.md`](faq.md). We discuss real ranges early; we don't lowball this role.)
 
 ## Apply
-Don't send just a CV. See [`apply/application-task.md`](apply/application-task.md) — and let your agent help you do it well. We reply to everyone who does the task.
+Don't send just a CV. Do the task in [`apply/application-task.md`](apply/application-task.md) — let your agent help you do it well — then apply at **https://orangehill.ai/en/careers/orchestrator**. We reply to everyone who does the task.

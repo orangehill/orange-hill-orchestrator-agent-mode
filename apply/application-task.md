@@ -23,4 +23,4 @@ Ask the agent you connected to this repo:
 If your agent helped — good. That's how we work too. We care that the thinking and the judgment are yours.
 
 ## How to send it
-Apply at orangehill.ai with both parts — a doc, a repo, a Loom, whatever shows you best. **We reply to everyone who does this task.**
+Apply at **https://orangehill.ai/en/careers/orchestrator** with both parts — a doc, a repo, a Loom, whatever shows you best. **We reply to everyone who does this task.**

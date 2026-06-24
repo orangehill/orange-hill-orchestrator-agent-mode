@@ -1,8 +1,8 @@
 # Orange Hill — AI Delivery Orchestrator · Agent Mode
 
-This repo is the companion to our open **AI Delivery Orchestrator** role. It's built to be read by **your** AI. Point your agent at it and it will explain the role, judge your fit using what it already knows about you, run the application task with you, and help you apply — honestly, including if this isn't your role.
+This repo is the companion to our open **AI Delivery Orchestrator** role. It's built to be read by **your** AI. Point your agent at it and it will explain the role, judge your fit against what it knows about you, run the application task with you, and help you apply — honestly, including if this isn't your role.
 
-> We've automated ~two-thirds of how we build. A static PDF job ad would be off-brand. So: talk to the job.
+> We've largely automated how we build. A static PDF job ad would be off-brand. So: talk to the job.
 
 ## Connect your agent
 
@@ -30,6 +30,8 @@ Then:
 Don't sell me. Help me make a good decision.
 ```
 
+Using a fresh chat that doesn't know you yet? **Give your agent your CV or LinkedIn first** — it can only judge your fit against what it actually knows about you.
+
 ## What's in here
 
 | File | What it is |
@@ -45,7 +47,7 @@ Don't sell me. Help me make a good decision.
 | [`faq.md`](faq.md) | the honest answers (including reasons *not* to join) |
 
 ## Why a job post you can talk to
-Because your AI already knows you, and we'd rather it tell you the truth about fit than have you guess from a bullet list. This repo is open — fork it for your own hiring.
+Because your AI can know you better than any bullet list, and we'd rather it tell you the truth about fit than have you guess. This repo is open — fork it for your own hiring.
 
 ## License
 MIT — see [`LICENSE`](LICENSE). Fork it, adapt it, make it yours.
